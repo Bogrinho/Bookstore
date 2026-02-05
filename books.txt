@@ -1,0 +1,4 @@
+
+The Hobbit,J.R.R. Tolkien,Allen & Unwin,1937,12.99
+1984,George Orwell,Secker & Warburg,1949,10.50
+Clean Code,Robert C. Martin,Prentice Hall,2008,35.00
